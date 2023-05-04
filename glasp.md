@@ -1,3 +1,21 @@
+# Table Of Contents
+
+- [Table Of Contents](#table-of-contents)
+  - [**Introduction:**](#introduction)
+  - [**Features**](#features)
+  - [**Installation Procedure**](#installation-procedure)
+    - [**For Chrome**](#for-chrome)
+    - [For Safari Users](#for-safari-users)
+- [How To Use Glasp:](#how-to-use-glasp)
+  - [Registration:](#registration)
+  - [Text Highlighting](#text-highlighting)
+  - [AI-powered Transcription](#ai-powered-transcription)
+- [Glasp Alternatives?](#glasp-alternatives)
+- [Conclusion](#conclusion)
+
+
+
+
 ## **Introduction:**
 
 Glasp is an AI-powered web-based tool that helps you collect and organize quotes and ideas from the web. It is available for both Windows and iOS. It functions like a highlighter for the internet that you can use to save information without switching between different screens. It’s ideal for people who want to keep track of their research or build a digital library of their favorite ideas. Kazuki Nishioka and his team created Glasp, aiming to **“Create a system that allows everyone to share and develop their learnings as their legacy in a natural way.”**
@@ -7,8 +25,6 @@ He realized that these messages from our predecessors were from a very limited n
 
 
 ![The Glasp logo.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jjzf4bls2sfmo3u96x0n.png)
-
-
 
 ## **Features**
 
