@@ -12,7 +12,7 @@ He realized that these messages from our predecessors were from a very limited n
 
 ## **Features**
 
-Glasp is a very versatile tool, with a lot of uses and applications. These are the features that stand out the most
+Glasp is a very versatile tool, with a lot of uses and applications. These are the features that stand out the most;
 
 
 
@@ -33,11 +33,9 @@ Chrome installation is the same across all Windows devices.
 
 
 * Step 1: On your Chrome web browser, type in[ glasp.co](http://glasp.co), the web app’s main site. 
-* Step 2: Select **Install** on the button with the chrome symbol.
+* Step 2: Click on **install on Chrome** after the page loads.
 
-
-
-![](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bdu324w3rjrle04t6ad4.jpeg)
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iyt6plew3mfqj2tkyczm.jpeg)
 
 
 
@@ -52,8 +50,8 @@ Chrome installation is the same across all Windows devices.
 
 
 
-* Step 4:** Sometimes, for other web browsers instead of **get,** you might see **Add to Chrome**. This is common for web browsers like **Edge**,**Brave**, or **Firefox**, and they are all subject to the same procedure.  The extension is automatically downloaded,  and once it is finished, simply follow the prompts to activate your Glasp extension.  
-* Reload the page to see the **remove** icon once you’re done with the installation to confirm that it was successfully installed.
+* **Step 4:** Sometimes, for other web browsers instead of **get,** you might see **Add to Chrome**. This is common for web browsers like **Edge**, **Brave**, or **Firefox**, and they are all subject to the same procedure.  The extension is automatically downloaded,  and once it is finished, simply follow the prompts to activate your Glasp extension.  
+* **Step 5:** Reload the page to see the **remove** icon once you’re done with the installation to confirm that it was successfully installed.
 
 
 
@@ -77,17 +75,15 @@ Here's how to install Glasp on Safari:
 
 
 
-* Step 1:  Launch Safari and navigate to[ glasp.co](http://glasp.co), the official website. And, similarly to Chrome, you click on Install On Safari. This will take you to the App Store.
-* Click on the extension and then click on the** Install** button.
+* **Step 1:**  Launch Safari and navigate to[ glasp.co](http://glasp.co), the official website. And, similarly to Chrome, you click on Install On Safari. This will take you to the App Store.
+* **Step 2:** Click on the extension and then click on the** Install** button.
 
 
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9aq3aoa7i5wnym9voytq.png)
 
 
-
-
-* The on-screen instructions that appear after clicking the Install button may vary, but in general, the instructions will guide you through granting the extension necessary permissions and configuring any settings specific to that extension. You may be prompted to confirm the installation, enter your password, or agree to the extension's terms and conditions. Once you have completed any necessary steps, the extension should be installed and ready to use in Safari.
+The on-screen instructions that appear after clicking the Install button may vary, but in general, the instructions will guide you through granting the extension necessary permissions and configuring any settings specific to that extension. You may be prompted to confirm the installation, enter your password, or agree to the extension's terms and conditions. Once you have completed any necessary steps, the extension should be installed and ready to use in Safari.
 
 
 
@@ -95,7 +91,7 @@ Here's how to install Glasp on Safari:
 
 
 
-## How To Use Glasp:
+# How To Use Glasp:
 
 Glasp can be used in various ways, from highlighting text to transcribing YouTube videos. Here are a few tips to quickly learn how to use Glasp:
 
@@ -131,26 +127,25 @@ One of the most common uses of Glasp is to highlight text without having to chan
 
 
 
-* When you want to highlight a text or quote using Glasp, a small bar with various colors will appear. You can select the color you prefer and click on it to highlight the text. Once you do this, the highlighted text will be saved immediately to your Glasp sidebar for later use.
+* Highlight a text or quote using your cursor, and a small bar with various color options will appear. You can select the color you prefer and click on it to highlight the text with your preferred colour.
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o3uqvtl72ufwfb2hdeqi.jpeg)
 
-* When you select a color from the bar, the text changes to that color, and your highlighted notes are saved.
-
-
+*  Once you do this, the highlighted text will be saved immediately to your Glasp sidebar for later use.
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/imkms1m658a80fmtows0.jpeg)
 
 
 
 * To locate highlighted text, click on the Glasp icon on the right. You can update the text whenever you want.
-* Then you'll be taken to your home page, which will include the themes you've chosen. You can read other people's highlights on the home page.
+
+You'll be taken to your home page, which will include the themes you've chosen. You can read other people's highlights on the home page.
 
 ## AI-powered Transcription
 
 
-Glasp can transcribe YouTube videos using ChatGPT. Imagine you're viewing a video and don't want to miss any of the main points, simply click on the Glasp icon beside the video.
+Glasp can transcribe YouTube videos using ChatGPT. Imagine you're viewing a video and don't want to miss any of the main points. Glasp can help with that: 
 
-* A Glasp symbol with **Transcript and Summary** can be found on the top right side of the screen, next to the video. Note that you cannot use Glasp if the video is in full screen, though, so you'll have to make sure it's not in full-screen mode.
+* Click on the Glasp icon beside the video. The Glasp symbol with **Transcript and Summary** can be found on the top right side of the screen as shown in the image below.  Note that you cannot use Glasp if the video is in full screen. You'll have to make sure it's not in full-screen mode.
 
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v68diivk10dl5f640a1a.jpeg)
@@ -159,27 +154,26 @@ Glasp can transcribe YouTube videos using ChatGPT. Imagine you're viewing a vide
 
 
 
-* When you click the ChatGPT symbol next to **transcript and summary**, it will lead you to the ChatGPT chatbot with the prepared summary and transcript.
+* Click the ChatGPT symbol next to **Transcript and summary**, and it will lead you to the ChatGPT chatbot with the prepared summary and transcript.
 
     
-![The ChatGPT Symbol ](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zbf6c4sskydhsmr1bla2.png)
+
 
 ![The transcript summary generated by ChatGPT.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e04umdux4jmt1n4ru5jk.jpeg)
 
 
 
-## Glasp Alternatives?
+# Glasp Alternatives?
 
 
 Glasp is a powerful online highlighter that promotes collaborative learning and idea production while also allowing you to save and organize anything from the web. It is vastly useful for bookmarking knowledge, and building connections while doing so. It is also very unique in its highlighting approach, so it's very hard to say that there are any alternatives to it.
 
-That being said, here are some applications that serve the same purpose:
+That being said, here are some applications that serve similar purposes:
 
-* **Eightify:**An extension that summarises youtube videos in eight key points. 
+* **Eightify:** An extension that summarises youtube videos in eight key points. 
 * **Readwise Highlighter:** This brings all your reading into one place including web articles, email newsletters, RSS feeds, Twitter threads, PDFs, EPUBs, and more.
-* **Roam Highlighte**r: This extension offers an easy way to highlight text on a web page and import it to note-taking apps like Roam Research, Obsidian, Logseq, or Notion in the format that best suits your workflow.
+* **Roam Highlighter:** This extension offers an easy way to highlight text on a web page and import it to note-taking apps like Roam Research, Obsidian, Logseq, or Notion in the format that best suits your workflow.
 
-## Conclusion
-
+# Conclusion
 
 Glasp is a creative and easy-to-use technology that has completely changed how information has been stored. Glasp is a great resource for students, researchers, and anyone who wants to learn and work together. It has unique tools like the text highlighting tool and AI-powered transcription, which makes it easier to learn and collaborate. Glasp is dedicated to making knowledge accessible to everyone and is always working to make the platform better. In the future, it could have a big impact on online learning and research.
